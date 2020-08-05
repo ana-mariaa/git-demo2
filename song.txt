@@ -4,5 +4,3 @@ Other line.
 Inca o linie.
 <<<<<<< HEAD
 new line
-=======
->>>>>>> 2d7dc2f9183cbbaafa219f1993bd8fe0493b0b01

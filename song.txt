@@ -1,2 +1,5 @@
 This is first file in my git tutorial.
 Other line.
+
+Inca o linie.
+new line

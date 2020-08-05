@@ -6,3 +6,4 @@ Inca o linie.
 new line
 
 first commit in feature branch
+second commit in feature
